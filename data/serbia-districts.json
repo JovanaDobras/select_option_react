@@ -1,0 +1,120 @@
+{
+"districts": [
+    {
+        "district": "Kolubara district",
+        "cities": ["Osečina","Ub","Lajkovac","Valjevo","Mionica","Ljig"]
+    },
+    {
+        "district": "Mačva district",
+        "cities": ["Bogatić","Šabac","Loznica","Vladimirci","Koceljeva","Mali Zvornik","Krupanj","Ljubovija"]
+    },
+    {
+        "district": "Moravica district",
+        "cities": ["Gornji Milanovac","Čačak","Lučani","Ivanjica"]
+    },
+    {
+        "district": "Pomoravlje district",
+        "cities": ["Jagodina","Ćuprija","Paraćin","Svilajnac","Despotovac","Rekovac"]
+    },
+    {
+        "district": "Rasina district",
+        "cities": ["Varvarin","Trstenik","Ćićevac" ,"Kruševac","Aleksandrovac","Brus"]
+    },
+    {
+        "district": "Raška district",
+        "cities": ["Kraljevo","Vrnjačka Banja","Raška","Novi Pazar","Tutin"]
+    },
+    {
+        "district": "Šumadija district",
+        "cities": ["Aranđelovac","Topola","Rača","Batočina","Knić","Lapovo","Kragujevac"]
+    },
+    {
+        "district": "Zlatibor district",
+        "cities": ["Bajina Bašta","Kosjerić","Užice","Požega","Čajetina","Arilje","Nova Varoš","Prijepolje","Sjenica","Priboj"]
+    },
+    {
+        "district": "Bor district",
+        "cities": ["Bor","Kladovo","Majdanpek","Negotin"]
+    },
+    {
+        "district": "Braničevo district",
+        "cities": ["Veliko Gradište","Požarevac","Golubac","Malo Crniće","Žabari","Petrovac","Kučevo","Žagubica"]
+    },
+    {
+        "district": "Jablanica district",
+        "cities": ["Leskovac","Bojnik","Lebane","Medveđa","Vlasotince","Crna Trava"]
+    },
+    {
+        "district": "Nišava district",
+        "cities": ["Aleksinac","Svrljig","Merošina","Ražanj","Doljevac","Gadžin Han","Niš"]
+    },
+    {
+        "district": "Pčinja district",
+        "cities": ["Vladičin Han","Surdulica","Bosilegrad","Trgovište","Vranje","Bujanovac","Preševo"]
+    },
+    {
+        "district": "Pirot district",
+        "cities": ["Bela Palanka","Pirot","Babušnica","Dimitrovgrad"]
+    },
+    {
+        "district": "Podunavlje district",
+        "cities": ["Smederevo","Smederevska Palanka","Velika Plana"]
+    },
+    {
+        "district": "Toplica district",
+        "cities": ["Prokuplje","Blace","Kuršumlija","Žitorađa"]
+    },
+    {
+        "district": "Zaječar district",
+        "cities": ["Boljevac","Knjaževac","Zaječar","Sokobanja"]
+    },
+    {
+        "district": "Central Banat district",
+        "cities":["Novi Bečej","Nova Crnja","Žitište","Sečanj","Zrenjanin"]
+    },
+    {
+        "district": "North Bačka district",
+        "cities": ["Subotica","Bačka Topola","Mali Iđoš"]
+    },
+    {
+        "district": "North Banat district",
+        "cities": ["Kanjiža","Senta","Ada","Čoka","Novi Kneževac","Kikinda"]
+    },
+    {
+        "district": "South Bačka district",
+        "cities": ["Srbobran","Bač","Bečej","Vrbas","Bačka Palanka","Bački Petrovac","Žabalj","Titel","Temerin","Beočin","Sremski Karlovci","Novi Sad"]
+    },
+    {
+        "district": "South Banat district",
+        "cities": ["Plandište","Opovo","Kovačica","Alibunar","Vršac","Bela Crkva","Pančevo","Kovin"]
+    },
+    {
+        "district": "Srem district",
+        "cities": ["Šid","Inđija","Sremska Mitrovica","Irig","Ruma","Stara Pazova","Pećinci"]
+    },
+    {
+        "district": "West Bačka district",
+        "cities": ["Sombor","Apatin","Odžaci","Kula"]
+    },
+    {
+        "district": "Kosovo district",
+        "cities": ["Pristina","Glogovac","Kosovo Polje","Lipljan","Obilić","Podujevo","Ferizaj","Štimlje","Štrpce"]
+    },
+    {
+        "district": "Kosovo-Pomoravlje district",
+        "cities": ["Kamenica","Novo Brdo","Gjilan","Vitina"]
+    },
+    {
+        "district": "Kosovska Mitrovica district",
+        "cities": ["Mitrovica","Leposavić","Skenderaj","Vučitrn","Zubin","Potok","Zvečan"]
+    },
+    {
+        "district": "Peć district",
+        "cities": ["Peja","Istok","Klina","Gjakova"]
+    },
+    {
+        "district": "Prizren district",
+        "cities": ["Orahovac","Suva Reka","Prizren","Gora"]
+    }
+]
+}
